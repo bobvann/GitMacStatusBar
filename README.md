@@ -30,7 +30,7 @@ Every directory contains its .git directory
 
 ```
 
-So your "GIT directory" is <dir>
+So your "GIT directory" is "dir"
 
 
 #Install
